@@ -1,0 +1,64 @@
+body{
+height: 900px; width:1440px; background-color:#0D192C; padding:24px ;color:hsl(0, 0%, 100%, 60% );
+}
+.container{
+width:350px; height:596px; background-color: #15263F; margin:auto;  border-radius: 15px; padding:24px; 
+}
+
+ .container h1{
+ font-size:22px;   color: white; margin:24px 0px 16px 0px;
+}
+.container h1:hover{
+color: #00FFF8; cursor: pointer;
+}
+p{
+   font-weight: 300;
+   font-size: 18px;
+}
+
+    
+.mtavari{ max-width:100%; margin:auto;  border-radius:8px; 
+}
+.container ul li{
+display: flex;
+align-items: center;
+}
+
+.container ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:32px 0px ;
+    border-bottom:1px solid grey
+}
+.saati{
+    width:16px; height:16px;  
+}
+.eter{
+  width: 11px; height: 18px;
+    
+}
+.container ul li:first-child{
+  color: #00FFF8;
+}
+.container .avatar{
+  display:flex; align-items: center; justify-content: start; padding-top:32px;
+}
+.container .kaci { width: 33px; height:33px; border:2px solid white; border-radius:33px;  margin-right: 16px;
+}
+.container .avatar p span{
+color: white; 
+}
+
+.container .avatar p span:hover{
+  color: #00FFF8;cursor: pointer;
+ }
+
+
+ 
+
+ 
+
+
+
+
